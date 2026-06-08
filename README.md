@@ -9,12 +9,12 @@ Currently focused on creating internal products that make life easier for engine
   <tr>
     <td style="border: none;">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanberto&size_weight=0.5&count_weight=1&hide=css,html,freemarker,groovy,javascript,dockerfile,coffeescript&theme=dark&layout=donut"
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=renanberto&size_weight=0.5&count_weight=1&hide=css,html,freemarker,groovy,javascript,dockerfile,coffeescript&theme=dark&layout=donut"
       />
     </td>
     <td style="border: none;">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=renanberto&show_icons=true&theme=dark&rank_icon=github"
+        src="https://github-stats-extended.vercel.app/api?username=renanberto&show_icons=true&theme=dark&rank_icon=github"
       />
     </td>
   </tr>
