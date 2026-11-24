@@ -1,7 +1,7 @@
 <h1 align="center">Hiho, I'm Renan 👋</h1>
 
 <p align="center">
-🚀 DevOps Engineer with <b>10+ years</b> of experience building, scaling and simplifying infrastructure and developer workflows.</br>
+🚀 DevOps Engineer with <b>15+ years</b> of experience building, scaling and simplifying infrastructure and developer workflows.</br>
 Currently focused on creating internal products that make life easier for engineering teams.
 </p>
 
@@ -23,4 +23,3 @@ Currently focused on creating internal products that make life easier for engine
 ---
 
 <h3 align="center">💡 DevOps is not just about tools — it’s about people, culture and collaboration.</h3>
-<h3 align="center">🤝 Long live the perfect communication between developers & operations!</h3>
